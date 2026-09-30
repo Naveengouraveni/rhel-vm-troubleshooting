@@ -1,0 +1,18 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Local VM files
+*.vmem
+*.vmdk
+*.nvram
+*.vmss
+*.lck/
+
+# Credentials / secrets
+.env
+*.pem
+*.key
